@@ -1,7 +1,7 @@
 Continued Education Curriculum
 ===============================
 1. Backbone.js
-	* Create web app (needs idea)
+	* Create appawk.com
 1. Ruby on Rails
 	* Create web app (needs idea)
 	* [Ruby Monk](http://rubymonk.com/)
